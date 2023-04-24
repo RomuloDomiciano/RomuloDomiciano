@@ -1,7 +1,7 @@
 ### print("Hello, world")
 
 
-📱  I am a Flutter Mobile Engineer at https://monis.com.br/ - Dart makes my heart Flutter 💙.
+📱  I am a Fproduct analyst at Cielo/ - Dart makes my heart Flutter 💙.
 
 📊  I have a post-graduation on Data Science for Health&Care and I am doing Data Science & Analytics MBA  - yeah, I really love Data Science, Data Analysis and Statistics. Btw, here is my Keagle: https://www.kaggle.com/romulodomiciano
 
@@ -35,5 +35,5 @@ I am now using my GitHub not only for my job, but I decided to upload more side 
 
 I really love mobile app development. I am working to be a great mobile engineer that can solve complex problems and develop beautiful and smooth apps. I want to contribute more with open source projects especially Flutter. In the near future, I want to become a Data Analyst and after Data Scientist. 
 
-...and I really love teaching, I am not that pro programmer (yet?) but if I can help you somehow, let me know, we can complain about things together!
+...and I really love teaching and if I can help you somehow, let me know, we can evolve together!
                                                            
