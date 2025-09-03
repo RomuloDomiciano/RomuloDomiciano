@@ -1,9 +1,9 @@
 ### print("Hello, world")
 
 
-📱  I am a Sênior Data Scientist @Cielo.
+📱  I am a Software Consultant @Avanade(Microsoft/Accenture).
 
-📊  I have a post-graduation on Data Science for Health&Care and I am doing Data Science & Analytics MBA  - yeah, I really love Data Science, Data Analysis and Statistics. Btw, here is my Keagle: https://www.kaggle.com/romulodomiciano
+📊  I have a post-graduation on Data Science for Health&Care - yeah, I really love Data Science, Data Analysis and Statistics. Btw, here is my Keagle: https://www.kaggle.com/romulodomiciano
 
 
 **So basically, I spend most of my time working with:**
