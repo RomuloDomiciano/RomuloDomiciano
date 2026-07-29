@@ -159,28 +159,6 @@ I believe good engineers should not only build systems—they should also be abl
 
 That combination is one of the main reasons I am interested in **AI Engineering and Forward Deployed Engineering**.
 
----
-
-## 📊 GitHub activity
-
-<div align="center">
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=romulodomiciano&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Rômulo's GitHub stats"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulodomiciano&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-
-</div>
-
----
-
 ## 🤝 Let's connect
 
 I enjoy discussing:
