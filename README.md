@@ -165,13 +165,19 @@ That combination is one of the main reasons I am interested in **AI Engineering 
 
 <div align="center">
 
-![Rômulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulodomiciano\&show_icons=true\&theme=tokyonight\&count_private=true\&hide_border=true)
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=romulodomiciano&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Rômulo's GitHub stats"
+  />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romulodomiciano\&layout=compact\&theme=tokyonight\&hide_border=true)
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulodomiciano&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 
 </div>
-
-> GitHub language statistics represent public repositories and do not necessarily reflect my complete professional experience.
 
 ---
 
