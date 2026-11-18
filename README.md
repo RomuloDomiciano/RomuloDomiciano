@@ -1,6 +1,6 @@
 # Hi, I'm Rômulo Domiciano 👋
 
-### AI Engineer · Forward Deployed Engineer · Tech Lead
+### Principal AI Engineer | AI Architect 
 
 **Building intelligent systems, solving complex problems, and turning ideas into real products.**
 
